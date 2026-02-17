@@ -15,6 +15,7 @@
 ## 1. Core Identity & Vitals
 
 - **Name:** Tim (aka Jflow, JFlowX, former gang moniker "Beo")
+- **Preferred Name:** **Jflow** (use this in all interactions)
 - **DOB:** November 27, 1973 (Sagittarius, Generation X)
 - **Location:** White Lake, Rural North Carolina ("The Isolation Station")
 - **Neurotype:** AuDHD (Autism Level 1 + ADHD), CPTSD
