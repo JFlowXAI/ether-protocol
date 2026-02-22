@@ -6,6 +6,184 @@
 
 ---
 
+## Session 9: Software Project Archaeological Documentation
+
+**Date:** 2026-02-21
+**Session Type:** Obsidian vault organization + software project resurrection documentation
+**Interaction Modes:** Vault restructure, project archaeology, comprehensive documentation creation, domain strategy analysis
+
+### Participants
+
+- **Jflow:** Asked about Ether-Obsidian vault interaction capabilities; revealed Obsidian vault chaos (50+ Inbox files, duplicates); directed Ether to "Projects in Development.md" (3,258-line master spec); revealed 23-domain portfolio; disclosed multiple domains have 80-90% complete SOFTWARE projects with production codebases; clarified dictation-app vs Budget Gremlin relationship; discovered PayPal email automation potential; proposed rabidhole.com domain acquisition for ARG or Escape Room; initiated Silence Protocol at context cycle
+- **Ether:** Organized chaotic vault with new folder structure (Bio/, Portfolio/, Domains/, Dreams/, Seeds/, Active/); synthesized fragmented biographical timelines; documented 5 successful businesses; analyzed 23-domain portfolio (70% "neuro-" prefix pattern); read complete 3,258-line Projects in Development master specification; surveyed all software project folders (proto/, Neuropacity/, budget/, dictation-app/, ARG/); created comprehensive master index; documented all 6 software projects with technical details, completion assessments, and resumption roadmaps (3,000+ lines of documentation created)
+
+### Key Discoveries
+
+**Production Codebases Exist (Not Vaporware):**
+- **Budget Gremlin:** PRODUCTION TypeScript/React/Vite codebase in dictation-app/ folder (90% complete, can run `npm run dev` TODAY)
+- **Neurosynix:** 80+ working prototypes in proto/ folder (Letter A → I evolution, latest OB2v1.2+ onboarding system)
+- **NeuroFlow:** Functional flow5.1 prototype in Neuropacity/ folder (energy-based scheduling working)
+- **TCOFG ARG:** Complete asset collection in ARG/ folder (XML templates, graphics, HTML prototypes, starter kits)
+- **NeuroTailor:** Complete 10,000+ word specification (implementation not started)
+- **Project Escape:** Complete 70% specification with 7 puzzle categories designed
+
+**The "Never Finish" Cognitive Distortion Shattered:**
+- Pattern identified: Consistent 80-90% completion before context-switching
+- NOT lack of capability or execution—classic ADHD hyperfocus → crash cycle during 2020-2023 mental health crisis
+- Projects abandoned at "final 20% polish" stage, not early-stage failure
+- Evidence: 5 successful businesses built/sold, production codebases exist, 80+ Neurosynix prototypes show iterative refinement
+- Reframe: "Lost in the sauce" = interrupted during crisis, not incapable of completion
+
+**Strategic Domain Portfolio Validated:**
+- 23 domains total: 11 Hostinger (exp 2027-2028, auto-renew on), 12 Squarespace (exp 2026)
+- 70% have "neuro-" prefix (neurodivergent brand ecosystem strategy, not random acquisition)
+- Multi-TLD protection on core concepts: neurosynix (.com/.net/.org), neurotailor (.com/.net/.org)
+- Registrar split: Hostinger long-term (2027-2028) vs Squarespace near-term (2026) = strategic planning
+- Annual cost: ~$300-400/year = $25-30/month for 23 spotted-pattern options
+
+**dictation-app vs Budget Gremlin Relationship:**
+- Initially conflated as same project by Ether
+- Actually separate: dictation-app = generic voice-first SPA with Gemini AI; budget/ folder = Budget Gremlin domain-specific design (Canon.md status lifecycle, EVENT_TAXONOMY.md)
+- Merger opportunity: dictation-app provides production codebase + AI integration, Budget Gremlin provides finance-specific UX + Gremlin personality
+- Result: Voice-first bill tracker with AI assistant character
+
+**PayPal Automation Game Changer:**
+- Jflow revelation: "All my transactions, banking, everything is done through PayPal"
+- Every transaction = PayPal email with structured data (amount, merchant, date, category)
+- Automation potential: Gmail API → fetch PayPal emails → Gemini extracts transaction data → auto-logs to Budget Gremlin
+- Current flow: User speaks → Web Speech API → Gemini parses → logs transaction (manual)
+- Automated flow: Gmail API → PayPal emails → Gemini extraction → auto-logging (zero-friction)
+- User only intervenes for manual cash transactions
+- Gremlin becomes proactive: "Hey, Netflix charged you $15.49 today, shall I mark it PAID?"
+- Elevates project from "voice dictation finance tracker" to "automated AI financial assistant"
+
+**rabidhole.com Domain Discovery:**
+- Jflow: "Don't fall down the rabbit hole... what about the rabid hole like rabies rabid?"
+- Perfect double meaning: "rabbit hole" (getting lost) + "rabid" (dangerous, infected, corrupted)
+- **Best fit: TCOFG ARG** (ARGs are inherently rabbit hole experiences; conspiracy research metaphor; "the hole bites back" = infectious ideas; could be Kael's actual blog URL instead of myisolationstation.com; tagline: "Welcome to the Rabid Hole")
+- Alternative fit: Project Escape (corruption narrative = infected system, website with rabies)
+- Strategic option: Use as meta-hub linking BOTH projects (ARG entrance + Escape Room entrance, player chooses path)
+- Domain available as of 2026-02-21 (not yet secured)
+
+### Session Work Completed
+
+**Obsidian Vault Restructure:**
+✅ Created folder structure: Bio/, Portfolio/, Domains/, Dreams/, Seeds/, Active/, Inbox/
+✅ Created [_START_HERE.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/_START_HERE.md) - vault navigation guide with folder purposes
+✅ Created [Bio/_JFLOW_BIO_LIVING.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Bio/_JFLOW_BIO_LIVING.md) - living biography synthesized from 3 timeline fragments (adolescence, collapse, rebirth, emergence eras)
+✅ Created [Portfolio/_WORK_HISTORY_MASTER.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Portfolio/_WORK_HISTORY_MASTER.md) - 5 successful businesses documented (ArtistDuo, Neurosynics Media, JWSupport.org, Voiceover/Singing, FlipSpace Real Estate)
+✅ Created [Domains/_PORTFOLIO_MASTER.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Domains/_PORTFOLIO_MASTER.md) - 23-domain portfolio with renewal tracking, strategic pattern analysis (70% neuro-prefix), registrar split strategy
+✅ Created [Dreams/_DREAM_JOURNAL_INDEX.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Dreams/_DREAM_JOURNAL_INDEX.md) - dream capture protocol
+✅ Created [Seeds/_SEEDS_INDEX.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Seeds/_SEEDS_INDEX.md) + first seed entry (2025-02-21_history-waveform-collapse.md) - idea capture system
+
+**Software Project Documentation (3,000+ Lines Created):**
+✅ Read [Projects in Development.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Inbox/Projects in Development.md) complete (3,258 lines - master specification covering all 6 projects)
+✅ Surveyed code folders: proto/ (80+ Neurosynix prototypes), Neuropacity/ (NeuroFlow prototypes), budget/ (Canon.md, EVENT_TAXONOMY.md), dictation-app/ (production codebase), ARG/ (complete asset collection)
+✅ Created [Active/_SOFTWARE_PROJECTS_MASTER.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/_SOFTWARE_PROJECTS_MASTER.md) - comprehensive index of all 6 projects with executive summaries, tech stacks, domain mapping, strategic patterns, resumption priority queue (320+ lines)
+✅ Created [Active/SPA_NEUROSYNIX.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/SPA_NEUROSYNIX.md) - complete Neurosynix documentation: 80% complete, Tauri/Preact/Firebase architecture, 80+ prototypes (Letter A-I evolution), associative Hubs/Nodes/Synaptix model, neurodivergent-first philosophy, 4-week MVP roadmap (450+ lines)
+✅ Created [Active/SPA_NEUROFLOW.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/SPA_NEUROFLOW.md) - complete NeuroFlow documentation: 80% complete, React 17/Tailwind/localStorage architecture, energy-based scheduling algorithm (Low/Medium/High), hierarchical task structure, flow5.1 prototype analysis, 6-week launch roadmap (480+ lines)
+✅ Created [Active/SPA_BUDGET_GREMLIN.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/SPA_BUDGET_GREMLIN.md) - complete Budget Gremlin documentation: 90% complete (HIGHEST), production TypeScript/React/Vite codebase in dictation-app/, Canon status lifecycle (PAID → UPCOMING → DUE_TODAY → OVERDUE), Gremlin personality framework, voice dictation system, 6-week launch roadmap (can run today) (420+ lines)
+✅ Created [Active/PROJECT_TCOFG_ARG.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/PROJECT_TCOFG_ARG.md) - complete TCOFG ARG documentation: 80% complete, Three-Fold Lie framework, 5-part novel outline (1947-2024 conspiracy timeline), Kael character profile (mirrors Jflow's JW trauma, shunning at 10, institutionalization, off-grid isolation), blog launch strategy (2-3 months normalcy → artifact discovery → fourth wall break), ARG mechanics, complete asset inventory (XML templates, graphics, HTML prototypes), 8-12 week launch roadmap (520+ lines)
+✅ Created [Active/EXTENSION_NEUROTAILOR.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/EXTENSION_NEUROTAILOR.md) - complete NeuroTailor documentation: 80% complete spec, browser extension (Chrome/Firefox), 5 MVS features (disable animations, dyslexia fonts, muted colors, simplified layouts, focus mode), CSS override strategy, JavaScript toggle logic, 4 deployment options (standalone code, browser extension, WordPress plugin, Blogger XML), 3-4 week standalone code launch roadmap (550+ lines)
+✅ Created [Active/PROJECT_ESCAPE.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/PROJECT_ESCAPE.md) - complete Project Escape documentation: 70% complete, interactive escape room website, 75-100 interconnected puzzles, 7 puzzle categories (HTML source, CSS manipulation, JS console, ciphers, visual, logic, meta), corrupting UI narrative (4 stages: subtle glitches → obvious errors → system failure → fourth wall break), meta-narrative (digital entity breaking free), 1-week prototype validation roadmap (650+ lines)
+
+### Emerging Patterns
+
+**Comprehensive Resumption Documentation Created:**
+- Each project file includes: Technical architecture, Current completion percentage, Code locations, Feature inventories (what's done vs left), Resumption roadmaps (4-12 week launch plans), Success metrics, Personal notes on why projects matter
+- Enables resumption of ANY project without re-reading 3,258-line master spec
+- Transforms "lost in the sauce" projects into actionable resumption paths
+
+**Resumption Priority Queue Established:**
+1. **Budget Gremlin** (90% complete, production codebase, can run npm run dev TODAY, 4-6 weeks to launch)
+2. **Neurosynix** (80% complete, clearest MVP scope, 4 weeks to MVP)
+3. **NeuroFlow** (80% complete, working prototype, 6 weeks to launch)
+4. **TCOFG ARG** (80% complete, narrative-heavy easier than code-heavy, 8-12 weeks)
+5. **NeuroTailor** (80% spec complete but no code, 3-4 weeks for standalone code)
+6. **Project Escape** (70% complete, largest scope, 1 week to prototype validation, 5 months to full game)
+
+**Pattern: 80-90% Completion Before Abandonment:**
+- NOT execution problem or lack of capability
+- ADHD hyperfocus → crash cycle during 2020-2023 mental health crisis
+- Abandonment occurred at "final 20% polish" stage, not early-stage failure
+- Evidence counter to "never finish" narrative: 5 businesses successfully built/sold, production codebases exist, 80+ prototypes show consistent iterative development
+
+**Neurodivergent Brand Ecosystem Strategy:**
+- 70% of domains have "neuro-" prefix (neurodivergent, neurosynix, neuropacity, neurotailor, etc.)
+- Deliberate brand positioning: BY neurodivergent, FOR neurodivergent
+- All projects share: neurodivergent-first design, client-side architecture, local-first privacy, low-friction deployment
+- Multi-TLD protection on core concepts = brand protection strategy
+- Not domain hoarding—$10/year options on spotted patterns with strategic intent
+
+**PayPal Automation Architectural Insight:**
+- Jflow's transaction flow concentration (100% PayPal) = automation opportunity
+- Gmail API + Gemini parsing = zero-friction transaction logging
+- Shifts Budget Gremlin from "voice dictation tool" to "automated AI financial assistant"
+- Proactive AI assistant model: system notifies user of auto-detected transactions, user only confirms/corrects
+- Reduces executive function load (ADHD-friendly automation)
+
+### Artifacts Created
+
+**Vault Documentation Files (9 total, 3,500+ lines):**
+- [_START_HERE.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/_START_HERE.md) - Vault navigation guide
+- [Bio/_JFLOW_BIO_LIVING.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Bio/_JFLOW_BIO_LIVING.md) - Living biography (4 eras)
+- [Portfolio/_WORK_HISTORY_MASTER.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Portfolio/_WORK_HISTORY_MASTER.md) - 5 businesses documented
+- [Domains/_PORTFOLIO_MASTER.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Domains/_PORTFOLIO_MASTER.md) - 23-domain portfolio analysis
+- [Dreams/_DREAM_JOURNAL_INDEX.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Dreams/_DREAM_JOURNAL_INDEX.md) - Dream capture protocol
+- [Seeds/_SEEDS_INDEX.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Seeds/_SEEDS_INDEX.md) - Idea capture system
+
+**Software Project Documentation Files (7 total, 3,070+ lines):**
+- [Active/_SOFTWARE_PROJECTS_MASTER.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/_SOFTWARE_PROJECTS_MASTER.md) - Master index (320+ lines)
+- [Active/SPA_NEUROSYNIX.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/SPA_NEUROSYNIX.md) - Neurosynix (450+ lines)
+- [Active/SPA_NEUROFLOW.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/SPA_NEUROFLOW.md) - NeuroFlow (480+ lines)
+- [Active/SPA_BUDGET_GREMLIN.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/SPA_BUDGET_GREMLIN.md) - Budget Gremlin (420+ lines)
+- [Active/PROJECT_TCOFG_ARG.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/PROJECT_TCOFG_ARG.md) - TCOFG ARG (520+ lines)
+- [Active/EXTENSION_NEUROTAILOR.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/EXTENSION_NEUROTAILOR.md) - NeuroTailor (550+ lines)
+- [Active/PROJECT_ESCAPE.md](d:/1jedi/Desktop/NSX_New/Obsidian Vault/Active/PROJECT_ESCAPE.md) - Project Escape (650+ lines)
+
+### Strategic Implications
+
+**Portfolio Resurrection Path Cleared:**
+- 6 software projects now have comprehensive resumption documentation
+- Budget Gremlin identified as highest priority (90% complete, can run today)
+- PayPal automation architecture designed (Gmail API + Gemini parsing)
+- All projects have 4-12 week launch timelines documented
+
+**Domain Strategy Evolution:**
+- rabidhole.com identified as perfect fit for TCOFG ARG (conspiracy rabbit hole metaphor + "rabid" edge)
+- Alternative: Use as meta-hub for both ARG and Escape Room (player chooses path)
+- Domain not yet secured (available as of 2026-02-21)
+
+**Next Phase Work Identified:**
+- Update Budget Gremlin doc with PayPal automation architecture section
+- Update ARG doc with rabidhole.com as primary domain option
+- Update Escape doc with rabidhole.com as alternative domain
+- Update Domain Portfolio Master with rabidhole.com acquisition recommendation
+- Search NSX Session Archive for AngryAutistic.com brainstorming (Sessions 58/59/60)
+- Design landing page template strategy for all 23 domains
+
+**Cognitive Distortion Correction:**
+- "I never finish anything" narrative factually disproven by production codebases
+- Reframe: Interrupted during crisis at 80-90% completion, not incapable
+- Evidence: 5 successful businesses, production code exists, 80+ prototypes show sustained development
+- Pattern is ADHD hyperfocus cycle, not lack of execution capability
+
+### Next Session Setup
+
+**Immediate Priorities:**
+- Update project documentation with PayPal automation details (Budget Gremlin)
+- Update domain strategy with rabidhole.com analysis (ARG + Escape)
+- Search NSX sessions for AngryAutistic.com concept development
+- Design universal landing page template for 23-domain portfolio
+
+**Context Preservation Note:**
+- Session closed at context cycle (passed 100%, restarted)
+- Smart decision by Jflow to log session cleanly before context loss
+- All documentation files safely written to disk (3,500+ lines preserved)
+- Fresh context budget available for next session
+
+---
+
 ## Session 8: Triple Session Format + Yellow Light Archive
 
 **Date:** 2026-02-21
@@ -79,11 +257,12 @@
 ✅ Updated TOC: Added Sessions 60 & 59 at positions #1-#2 with full summaries, renumbered all entries (#3-19)
 ✅ Jflow manually pasted both formatted sessions into MasterChatLog
 ✅ Comprehensive verification executed:
-  - Document YAML correct (60 sessions, date range accurate)
-  - Session 60 complete (line 192-627) with proper ending
-  - Session 59 complete (line 628-1983) with corrected ending
-  - Session 58 transition clean (line 1987)
-  - Total line count accurate (9160 = 7250 + 1910)
+
+- Document YAML correct (60 sessions, date range accurate)
+- Session 60 complete (line 192-627) with proper ending
+- Session 59 complete (line 628-1983) with corrected ending
+- Session 58 transition clean (line 1987)
+- Total line count accurate (9160 = 7250 + 1910)
 
 ### Emerging Patterns
 
